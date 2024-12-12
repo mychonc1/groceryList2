@@ -1,0 +1,38 @@
+.pantry {
+  display: inline-block;
+  border: 2px solid black;
+  font-size: 2rem;
+  padding: 20px;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  margin: 15px;
+}
+section {
+  display: flex;
+}
+.freezer {
+  display: inline-block;
+  border: 2px solid black;
+  font-size: 2rem;
+  padding: 20px;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  margin: 15px;
+}
+span {
+  text-align: center;
+}
+img {
+  margin: 10px;
+}
+img {
+  display: block;
+  margin: 10px;
+  width: 200px;
+}
